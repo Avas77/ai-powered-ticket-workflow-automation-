@@ -147,11 +147,10 @@ Raise a Pull Request
 ```
 ---
 ### 👨‍💻 Author
-- Rajveer Sharma
+- Avas Bajracharya
 
-- [GitHub](https://github.com/rajveer-09)
-- [LinkedIn](https://www.linkedin.com/in/rajveer-sharma933/)
-
+- [GitHub](https://github.com/Avas77)
+- [LinkedIn](https://www.linkedin.com/in/avasbajracharya/)
 ---
 
 ### 📄 License
@@ -159,7 +158,7 @@ Raise a Pull Request
 
 ---
 ### 🙌 Special Thanks
-- Inngest — Event-driven jobs
+- Ingest — Event-driven jobs
 - Google AI Studio — AI Capabilities
 - Nodemailer — Email Services
 
